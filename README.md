@@ -142,6 +142,7 @@ Picture
 Now you will see that a green checkmark appears next to the first rule indicating that the rule allowing communication is enabled. </br>
 
 picture
+picture
 
 <br> A circle with a line through it appears next to the second rule indicating that the rule blocking communication is enabled.<br>
 
