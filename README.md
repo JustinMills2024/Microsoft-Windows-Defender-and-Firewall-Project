@@ -84,22 +84,29 @@ This scan took several minutes to run.</br>
   <li>First, click the Windows Start button, and then select Windows Security.</li>
   <li>Then, click Firewall & network protection.</li>
 </ol>
-Picture
+<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/36388ddc-0f57-436a-9da0-4c951674503d" alt="Image 1">
+
+
 <br> Then I clicked on Domain network and I Verified that the Windows Defender Firewall was toggled to On.</br>
-Picture
+
+<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/ada76447-f08c-45da-a2af-d1369a82ac29" alt="Image 2">
+
 <br> Then I hit the back button and clicked on a private network to verify that the  Windows Defender Firewall is toggled to On.</br>
-Picture
+<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/87288208-cefd-4dad-911e-569923f4e1da" alt="Image 3">
+
 <br> Then I did the same with the Public network. I verified that the Windows Defender Firewall is toggled to On. 
 
 After I verified that I clicked on Allow an app through firewall and scrolled to Scroll to Mozilla Firefox. 
 
 Then clicked the public box on Mozilla Firefox because the public box was unclicked. <br>
 
-Picture
+<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/667b37d9-d4d3-4f64-afd8-b708b1481ad5" alt="Image 4">
+
 
 <br> Then I Clicked OK to return to the Firewall & network protection screen. Users will now be able to use Mozilla Firefox on the public network.</br>
 
-picture
+<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/92144278-276d-4e83-be32-26c35bc9b626" alt="Image 5">
+
 
 <h2>Exercise 2: Configure Firewall Rules using Windows Defender Firewall with Advanced Security
 </h2>
@@ -112,19 +119,23 @@ Deny the connection for Key Management Service on the Public network.
 
 I first Selected Advanced settings on the Firewall & network protection screen.</br>
 
-Picture
+<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/dbc0af4a-ae4e-4b32-9967-41e1a25185e6" alt="Image 6">
+
 
 <br> I then clicked on Inbound rules. On this page you will see a green checkmark next to a rule, it means it's turned on and ready to let things come in. 
 
 If there's no checkmark, the rule is there but it's not turned on yet.</br>
 
-picture
+<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/3469f8f6-d9c1-40ae-96b4-ac20d6c27e29" alt="Image 7">
+
 
 <br> I then scrolled to the Key Management Service inbound rule in the Overview panel of Windows Defender Firewall with Advanced Security. 
 
 I noticed that the policy is currently not enabled (the Enabled column says No.) <br> 
 
-picture
+<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/9abe8ba6-e6db-499a-8050-969d66e72e0c" alt="Image 8">
+
+
 
 <br>I Double-click to enabled, the rule. So that the Action column would say Allow
 
