@@ -56,14 +56,18 @@ And the Ransomware protection: Here, you can choose to enable controlled folder 
 <br> In this exercise I ran an antivirus quick scan. I did this by Clicking the Quick Scan button on the Virus & Threat Protection screen. 
 
 This scan took several minutes to run.</br> 
-<img src="https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation/assets/159082478/2e22d1b0-7f89-47d4-b036-efc3c1afbca0" alt="Image 5">
+picture
 
 <img src="https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation/assets/159082478/6dfb5245-3a79-4f63-ab02-a2440020f030" alt="Image 6">
+
+<img src="https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation/assets/159082478/aa3d78e2-d7dd-4eb6-a53e-e7784446a634" alt="Image 7">
 
 
 <br> When the quick scan was completed I clicked on threat history to show the results of the last scan. </br>
 
-<img src="https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation/assets/159082478/aa3d78e2-d7dd-4eb6-a53e-e7784446a634" alt="Image 7">
+Picture
+
+
 
 
 
@@ -119,22 +123,19 @@ Deny the connection for Key Management Service on the Public network.
 
 I first Selected Advanced settings on the Firewall & network protection screen.</br>
 
-<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/dbc0af4a-ae4e-4b32-9967-41e1a25185e6" alt="Image 6">
-
+picture
 
 <br> I then clicked on Inbound rules. On this page you will see a green checkmark next to a rule, it means it's turned on and ready to let things come in. 
 
 If there's no checkmark, the rule is there but it's not turned on yet.</br>
 
-<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/3469f8f6-d9c1-40ae-96b4-ac20d6c27e29" alt="Image 7">
-
+picture
 
 <br> I then scrolled to the Key Management Service inbound rule in the Overview panel of Windows Defender Firewall with Advanced Security. 
 
 I noticed that the policy is currently not enabled (the Enabled column says No.) <br> 
 
-<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/9abe8ba6-e6db-499a-8050-969d66e72e0c" alt="Image 8">
-
+picture
 
 
 <br>I Double-click to enabled, the rule. So that the Action column would say Allow
