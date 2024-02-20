@@ -60,12 +60,14 @@ picture
 
 <img src="https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation/assets/159082478/6dfb5245-3a79-4f63-ab02-a2440020f030" alt="Image 6">
 
+
 <img src="https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation/assets/159082478/aa3d78e2-d7dd-4eb6-a53e-e7784446a634" alt="Image 7">
 
 
 <br> When the quick scan was completed I clicked on threat history to show the results of the last scan. </br>
 
-Picture
+<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/b3de4ed4-8cbc-4d7b-831c-6b91ae5c8fc5" alt="Image">
+
 
 
 
@@ -88,15 +90,18 @@ Picture
   <li>First, click the Windows Start button, and then select Windows Security.</li>
   <li>Then, click Firewall & network protection.</li>
 </ol>
-<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/36388ddc-0f57-436a-9da0-4c951674503d" alt="Image 1">
+
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/72a239b2-bd47-458e-8cb2-c29f2d492b72" alt="Image">
 
 
 <br> Then I clicked on Domain network and I Verified that the Windows Defender Firewall was toggled to On.</br>
 
-<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/ada76447-f08c-45da-a2af-d1369a82ac29" alt="Image 2">
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/de64fa20-c721-4ccb-ac45-13a09906d058" alt="Image">
+
 
 <br> Then I hit the back button and clicked on a private network to verify that the  Windows Defender Firewall is toggled to On.</br>
-<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/87288208-cefd-4dad-911e-569923f4e1da" alt="Image 3">
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/d51a7ea5-90e2-43ae-9fd2-42c97a864fad" alt="Image">
+
 
 <br> Then I did the same with the Public network. I verified that the Windows Defender Firewall is toggled to On. 
 
@@ -104,12 +109,13 @@ After I verified that I clicked on Allow an app through firewall and scrolled to
 
 Then clicked the public box on Mozilla Firefox because the public box was unclicked. <br>
 
-<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/667b37d9-d4d3-4f64-afd8-b708b1481ad5" alt="Image 4">
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/0a013593-4025-4507-8c33-d7c185eea6ae" alt="Image">
 
 
 <br> Then I Clicked OK to return to the Firewall & network protection screen. Users will now be able to use Mozilla Firefox on the public network.</br>
 
-<img src="https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project/assets/159082478/92144278-276d-4e83-be32-26c35bc9b626" alt="Image 5">
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/a6dccd5b-7054-46bf-a279-cbd604a2854b" alt="Image">
+
 
 
 <h2>Exercise 2: Configure Firewall Rules using Windows Defender Firewall with Advanced Security
@@ -123,19 +129,22 @@ Deny the connection for Key Management Service on the Public network.
 
 I first Selected Advanced settings on the Firewall & network protection screen.</br>
 
-picture
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/db929f04-78eb-4062-b45a-451e0ed55fb2" alt="Image">
+
 
 <br> I then clicked on Inbound rules. On this page you will see a green checkmark next to a rule, it means it's turned on and ready to let things come in. 
 
 If there's no checkmark, the rule is there but it's not turned on yet.</br>
 
-picture
+
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/e2d8e183-f159-462d-ab00-c23accedfaf5" alt="Image">
 
 <br> I then scrolled to the Key Management Service inbound rule in the Overview panel of Windows Defender Firewall with Advanced Security. 
 
 I noticed that the policy is currently not enabled (the Enabled column says No.) <br> 
 
-picture
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/e2d8e183-f159-462d-ab00-c23accedfaf5" alt="Image">
+
 
 
 <br>I Double-click to enabled, the rule. So that the Action column would say Allow
