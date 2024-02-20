@@ -21,15 +21,18 @@
   <li>Then select Virus and Threat Protection to arrive at the page below.</li>
 </ol>
 
-Picture here
+<img src="https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation/assets/159082478/219d2c50-fe7c-4bd2-adbe-e8bebbce4151" alt="Image 1">
+<img 
 
-<br> As you can see on the Virus & threat protection  page there are not any current threats that are reported.
 
-You also have to option to see on when the last scan occurred, how long the scan took, and how many files were scanned. 
+<br> As you can see on the Virus & Threat Protection  page there are not any current threats that are reported.
+
+You also have to option to see when the last scan occurred, how long the scan took, and how many files were scanned. 
 
 You have the option to click the button to start a quick scan or access scan options to run a full scan or a custom scan on this page. </br>
 
-Picture
+<img src="https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation/assets/159082478/55e6b045-e018-429b-931f-1a76e0392be5" alt="Image 2">
+
 
 <br> On the same screen you will notice Virus & threat protection settings: Here, you can access options for managing your virus and threat protection settings. 
 
@@ -40,21 +43,30 @@ And the Ransomware protection: Here, you can choose to enable controlled folder 
 <h2>Exercise 2 Task 1: Update Threat Definitions </h2>
 
 <br>Under Virus & threat protection updates, I Clicked to Check for updates </br>
+<img src="https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation/assets/159082478/c4d1e0d8-76f1-471c-9390-d49c7c3cbf6c" alt="Image 3">
 
-Picture
-picture
+<img src="https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation/assets/159082478/bb10dd3a-532f-4aae-8df4-a6305464e0a6" alt="Image 4">
+
 
 <br> I then clicked check for updates again and in the screenshot below you will notice that the last update time and date have changed.</br>
-Picture
+<img src="https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation/assets/159082478/2e22d1b0-7f89-47d4-b036-efc3c1afbca0" alt="Image 5">
+
+
 <h2>Exercise 3: Run Antivirus Quick Scan</h2>
 <br> In this exercise I ran an antivirus quick scan. I did this by Clicking the Quick Scan button on the Virus & Threat Protection screen. 
 
 This scan took several minutes to run.</br> 
-Picture 
-picture 
+<img src="https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation/assets/159082478/2e22d1b0-7f89-47d4-b036-efc3c1afbca0" alt="Image 5">
+
+<img src="https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation/assets/159082478/6dfb5245-3a79-4f63-ab02-a2440020f030" alt="Image 6">
+
 
 <br> When the quick scan was completed I clicked on threat history to show the results of the last scan. </br>
-picture
+
+<img src="https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation/assets/159082478/aa3d78e2-d7dd-4eb6-a53e-e7784446a634" alt="Image 7">
+
+
+
 
 <br>The results are as follows: No threats out of 10808 files scanned. </br>
 
