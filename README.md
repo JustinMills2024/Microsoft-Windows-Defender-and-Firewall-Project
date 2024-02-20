@@ -151,12 +151,15 @@ I noticed that the policy is currently not enabled (the Enabled column says No.)
 
 Then I Click the Advanced tab.</br>
 
-Picture
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/32da8138-022d-4b01-8741-ee6658dbeee1" alt="Image">
+
 
 <br> we want to allow communication only with the domain and private networks, So I unchecked the Public box  then I clicked Apply, and then clicked Ok.</br>
 
-Picture
-Picture
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/30bc828e-4479-4af1-95e8-f10bf5d62b51" alt="Image 1">
+
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/7d8f7eb4-9330-41f9-8272-e243eac6c3bd" alt="Image 2">
+
 <br>Now I created an inbound rule that blocks communication with the public network. Since the new rule will be similar to the last, I  then copied  the existing rule. 
 I right-clicked and Ctrl v to make a second copy of the Key Management Service (TCP-In).
 
@@ -164,18 +167,21 @@ Then I Double-click the second rule to open the **Key Management Service *TCP-IN
 
 We want to block connection with the public network,  I then selected Block the connection on the General tab and Clicked Apply</br>
 
-picture
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/59968f14-ed17-4be6-b7a2-8f7a616961f3" alt="Image">
+
 
 <br> Once that was done I Clicked on the advanced setting tab and on the Domain and Private boxes I removed the checkmarks. 
 Then Click the Public to add the checkmark. And then Clicked OK.</br>
 
-Picture
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/bd747321-7d88-42bf-8fbb-f4af19183b9b" alt="Image">
+
 
 <br> Once that was complete I then Right-click each Key Management Service (TCP-In) rule and click Enable rule.
 Now you will see that a green checkmark appears next to the first rule indicating that the rule allowing communication is enabled. </br>
 
-picture
-picture
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/a53a716e-08a0-4f47-a54c-f0795adca44d" alt="Image 1">
+<img src="https://github.com/JustinMills2024/JustinMills2024/assets/159082478/48feb940-b707-493b-bc11-74773e38a7aa" alt="Image 2">
+
 
 <br> A circle with a line through it appears next to the second rule indicating that the rule blocking communication is enabled.<br>
 
